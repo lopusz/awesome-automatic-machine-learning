@@ -9,6 +9,9 @@ metalearning, automatic model building).
    + Bayesian optimization
 
 ** Metalearning
+    + Learning to Learn by Gradient Descent by Gradient Descent
+
+      https://arxiv.org/abs/1606.04474
 
 ** Automatic model building 
    + TPOT
