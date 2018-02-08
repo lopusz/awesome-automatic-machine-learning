@@ -3,39 +3,62 @@
 Opinionated list of resources on automatizing Machine Learning (parameter search strategies,
 metalearning, automatic model building).
 
-** Hyperparameter-optimization
+** Hyperparameter optimization and Algorithm Configuration
    + Grid search
    + Random search
    + Bayesian optimization
 
+   + Pitfalls and Best Practices in Algorithm Configuration
+
+     https://arxiv.org/pdf/1705.06058.pdf
+
+   + Efficient Benchmarking of Algorithm Configuration Procedures via Model-Based Surrogates
+
+     https://arxiv.org/pdf/1703.10342.pdf
+
 ** Metalearning
-    + Learning to Learn by Gradient Descent by Gradient Descent
+   + Learning to Learn by Gradient Descent by Gradient Descent
 
-      https://arxiv.org/abs/1606.04474
+     https://arxiv.org/abs/1606.04474
 
-** Automatic model building 
+** Automatic machine learning pipelines
+
+   + Auto-sklearn
+     + Efficient and Robust Automated Machine Learning
+
+       https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf
+
    + TPOT
-     + Randal S. Olson, Ryan J. Urbanowicz, Peter C. Andrews, Nicole A. Lavender, La Creis Kidd, and Jason H. Moore (2016). 
+     + Randal S. Olson, Ryan J. Urbanowicz, Peter C. Andrews, Nicole A. Lavender, La Creis Kidd, and Jason H. Moore (2016).
        Automating biomedical data science through tree-based pipeline optimization. Applications of Evolutionary Computation, pages 123-137.
-     
+
        https://arxiv.org/abs/1601.07925
-    
-     + Randal S. Olson, Nathan Bartley, Ryan J. Urbanowicz, and Jason H. Moore (2016). 
+
+     + Randal S. Olson, Nathan Bartley, Ryan J. Urbanowicz, and Jason H. Moore (2016).
        Evaluation of a Tree-based Pipeline Optimization Tool for Automating Data Science. Proceedings of GECCO 2016, pages 485-492.
-     
+
        https://arxiv.org/abs/1603.06212
 
-     + Layered TPOT: Speeding up Tree-based Pipeline Optimization 
-    
+     + Layered TPOT: Speeding up Tree-based Pipeline Optimization
+
        https://arxiv.org/abs/1801.06007
-     
+
      + This arXiv search:
 
        https://arxiv.org/find/all/1/all:+TPOT/0/1/0/all/0/1
 
+  + Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms
+
+    https://arxiv.org/pdf/1208.3719v2.pdf
+
+** Automatic model building
   + An algorithm for discovering Lagrangians automatically from data
-  
+
     https://arxiv.org/abs/1506.01293
+
+** Selected review resources
+   + Machine Learning for Automated Algorithm Design
+     http://www.ml4aad.org/
 
 ** Venues
    + Automatic Machine Learning Workshop, ICML 2017 (Interpretable ML Symposium (NIPS 2017) (contains links to *papers* and *slides*)
