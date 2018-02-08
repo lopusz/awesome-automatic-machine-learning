@@ -3,7 +3,7 @@
 Opinionated list of resources on automatizing Machine Learning (parameter search strategies,
 metalearning, automatic model building).
 
-** Hyperparameter optimization and Algorithm Configuration
+** Hyperparameter Optimization and Algorithm Configuration
    + Grid search
    + Random search
    + Bayesian optimization
@@ -21,7 +21,7 @@ metalearning, automatic model building).
 
      https://arxiv.org/abs/1606.04474
 
-** Automatic machine learning pipelines
+** Automatic Building of Machine Learning Pipelines
 
    + Auto-sklearn
      + Efficient and Robust Automated Machine Learning
@@ -51,12 +51,12 @@ metalearning, automatic model building).
 
     https://arxiv.org/pdf/1208.3719v2.pdf
 
-** Automatic model building
+** Automatic Model Building
   + An algorithm for discovering Lagrangians automatically from data
 
     https://arxiv.org/abs/1506.01293
 
-** Selected review resources
+** Selected Review Resources
    + Machine Learning for Automated Algorithm Design
      http://www.ml4aad.org/
 
