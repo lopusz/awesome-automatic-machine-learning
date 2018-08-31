@@ -15,6 +15,9 @@ metalearning, automatic model building).
      + https://arxiv.org/pdf/1703.10342.pdf
 
 ** Architecture search
+   + Regularized Evolution for Image Classifier Architecture Search (AmoebaNets paper)
+     + https://arxiv.org/pdf/1802.01548.pdf
+
    + DARTS: Differentiable Architecture Search
      + https://arxiv.org/pdf/1806.09055.pdf
 
@@ -32,7 +35,6 @@ metalearning, automatic model building).
      + https://arxiv.org/abs/1609.09106
 
 ** Automatic Building of Machine Learning Pipelines
-
    + Auto-sklearn
      + Efficient and Robust Automated Machine Learning
        + https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf
