@@ -61,11 +61,6 @@ metalearning, automatic model building).
   + An algorithm for discovering Lagrangians automatically from data
     + https://arxiv.org/abs/1506.01293
 
-** Selected Review Resources
-   + Machine Learning for Automated Algorithm Design
-     + http://www.ml4aad.org/
-     + Book! https://www.ml4aad.org/book/
-
 ** Venues
    + There is a good manually curated list here
      + https://www.ml4aad.org/workshops/
@@ -78,4 +73,13 @@ metalearning, automatic model building).
    + Automatic Machine Learning Workshop, ICML 2017 (contains links to *papers* and *slides*)
      + https://sites.google.com/site/automl2017icml/
      + https://sites.google.com/site/automl2017icml/accepted-papers
+
+** Competitions
+   + AutoML 2018 challenge - PAKDD2018
+     https://competitions.codalab.org/competitions/17767
+
+** Selected Review Resources
+   + Machine Learning for Automated Algorithm Design
+     + http://www.ml4aad.org/
+     + Book! https://www.ml4aad.org/book/
 
