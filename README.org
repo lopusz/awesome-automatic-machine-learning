@@ -74,9 +74,27 @@ metalearning, automatic model building).
      + https://sites.google.com/site/automl2017icml/
      + https://sites.google.com/site/automl2017icml/accepted-papers
 
+   + Metalearning Workshop, NIPS 2018
+     + http://metalearning.ml/2018
+
+   + Metalearning Workshop, NIPS 2017
+     + http://metalearning.ml/2017
+
 ** Competitions
    + AutoML 2018 challenge - PAKDD2018
      https://competitions.codalab.org/competitions/17767
+
+
+** Videos
+   + Automatic Machine Learning and How to Speed it up?, Frank Hutter
+     + https://www.youtube.com/watch?v=OR-IKyP4ZpI
+
+   + Automatic Machine Learning using Python & scikit-learn, Abhishek Thakur
+     + https://www.youtube.com/watch?v=_EviCgtzG7E
+
+   + The Past, Present, and Future of Automated Machine Learning, Randy Olson
+     + https://www.youtube.com/watch?v=QrJlj0VCHys
+     + http://www.randalolson.com/wp-content/uploads/ODSC-East-2018-Olson-AutoML.pptx.zip
 
 ** Selected Review Resources
    + Machine Learning for Automated Algorithm Design
