@@ -14,6 +14,9 @@ metalearning, automatic model building).
    + Efficient Benchmarking of Algorithm Configuration Procedures via Model-Based Surrogates
      + https://arxiv.org/pdf/1703.10342.pdf
 
+   + Tunability: Importance of Hyperparameters of Machine Learning Algorithms by Philipp Probst, Bernd Bischl, Anne-Laure Boulesteix
+     + https://arxiv.org/pdf/1802.09596.pdf
+
 ** Architecture search
    + Regularized Evolution for Image Classifier Architecture Search (AmoebaNets paper)
      + https://arxiv.org/pdf/1802.01548.pdf
@@ -100,4 +103,5 @@ metalearning, automatic model building).
    + Machine Learning for Automated Algorithm Design
      + http://www.ml4aad.org/
      + Book! https://www.ml4aad.org/book/
-
+   + Awesome-AutoML-Papers
+     + https://github.com/hibayesian/awesome-automl-papers
