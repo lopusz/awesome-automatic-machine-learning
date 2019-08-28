@@ -64,6 +64,12 @@ metalearning, automatic model building).
   + An algorithm for discovering Lagrangians automatically from data
     + https://arxiv.org/abs/1506.01293
 
+** Review Papers
+   + (2019) Survey on Automated Machine Learning, Marc-André Zöller, Marco F. Huber
+     + https://arxiv.org/abs/1904.12054
+   + (2019) AutoML: A Survey of the State-of-the-ArtXin He, Kaiyong Zhao, Xiaowen Chu
+     + https://arxiv.org/pdf/1908.00709.pdf
+
 ** Venues
    + There is a good manually curated list here
      + https://www.ml4aad.org/workshops/
